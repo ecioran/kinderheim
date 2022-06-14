@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkinderheim=self.webpackChunkkinderheim||[]).push([[9962],{9832:function(e){e.exports=JSON.parse('{"permalink":"/kinderheim/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

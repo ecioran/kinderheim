@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkinderheim=self.webpackChunkkinderheim||[]).push([[6833],{7051:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/kinderheim/blog/tags/hello","allTagsPath":"/kinderheim/blog/tags","count":2}')}}]);
