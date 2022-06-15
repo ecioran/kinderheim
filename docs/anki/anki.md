@@ -11,22 +11,6 @@ Anki is an awesome app that uses [spaced repetition learning](http://en.wikipedi
 
 > A language isn’t something you learn so much as something you join.
 
-## Tips
-
-- Review all cards every day, not just one topic. Ensure that you're not hitting the "Review limit" on a deck.
-- Use tags: Tag all cards that are more likely to appear on your exam and review them more often.
-- Use Lapses: if you fail a card n times, then let it be suspended and work on rewording it.
-- Reduce the amount of time spend on cards. If you do not have near-instant recall, mark it as "Again" and spend more time learning.
-
-## Interesting plugins
-
-- [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094) - Lets you create cards that hide parts of an image to test your knowledge of that hidden information.
-- [Night Mode](https://github.com/krassowski/Anki-Night-Mode)
-- [Review Heatmap](https://github.com/glutanimate/review-heatmap) - Your learning performance at a glance.
-
-## Notes
-
-- [Anki works due to the exponential decay of memory](https://www.reddit.com/r/Anki/comments/75bzzc/anki_overwhelms_me/) - The better you know a card, the less often that it'll be shown to you.
 
 ## Links
 
