@@ -1,12 +1,6 @@
 # API
 
-[Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
-
-[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](https://github.com/trpc/trpc) is nice for API access.
-
-Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
-
-## Other
+## Examples
 
 - [OpenAI API](https://openai.com/api/)
 - [Google Drive](https://github.com/prasmussen/gdrive)
