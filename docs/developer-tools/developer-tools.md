@@ -164,6 +164,7 @@
 <li><a href="https://github.com/minitorch/minitorch" rel="nofollow">minitorch</a> - Machine Learning Engineering Course Code</li>
 <li><a href="https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf" rel="nofollow">Approaching (Almost) Any Machine Learning Problem</a> - Machine Learning Problem Solving Book </li>
 <li><a href="https://github.com/dair-ai/ML-YouTube-Courses" rel="nofollow">ML-Youtube-Courses</a> - Machine Learning Courses on YouTube</li>
+</li>
 </ul>
 <hr />
 <h1 id="wiki_.25BA_developer_tools">► Developer Tools</h1>

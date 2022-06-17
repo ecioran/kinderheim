@@ -250,7 +250,7 @@
 <li><a href="https://www.toptal.com/designers/subtlepatterns/" rel="nofollow">Subtle Patterns</a> - Download Patterns</li>
 <li><a href="https://github.com/anamritraj/google-photos-plus" rel="nofollow">Google Photos Plus</a> - Download Google Photos in Better Quality</li>
 <li><a href="https://github.com/hardikvasa/google-images-download" rel="nofollow">google-images-download</a> - Download Images from Google Images </li>
-li><a href="https://github.com/fanfare/googleimagesrestored" rel="nofollow">googleimagerestored</a> - Old Google Image Search </li>
+<li><a href="https://github.com/fanfare/googleimagesrestored" rel="nofollow">googleimagerestored</a> - Old Google Image Search </li>
 <li><a href="https://github.com/ryanfb/dzi-dl" rel="nofollow">dzi-dl</a> - Deep Zoom Image Downloader </li>
 <li><a href="https://boingboing.net/features/getthumbs" rel="nofollow">YouTube Thumbnail Grabber</a>, <a href="https://www.youtubescreenshot.com/" rel="nofollow">YouTube Screenshot</a> or <a href="http://www.get-youtube-thumbnail.com/" rel="nofollow">Get YT Thumbnail</a> - Grab YouTube Thumbnails </li>
 <li><a href="https://github.com/Bionus/imgbrd-grabber" rel="nofollow">imgbrd-grabber</a> - Booru Image Downloader / <a href="https://github.com/loadletter/grabber-viewer" rel="nofollow">Viewer</a> </li>
