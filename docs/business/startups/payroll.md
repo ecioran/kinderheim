@@ -1,6 +1,6 @@
 # Payroll
 
-[Deel](https://www.letsdeel.com/) is [great](https://twitter.com/yongfook/status/1529731374424690688).
+[Deel](https://www.letsdeel.com/)
 
 ## Links
 

@@ -1,35 +1,5 @@
 # Values
 
-Values help improve decision making. When faced with multiple tough decisions, company or personal values can help find the 'right' decision faster.
-
-[Polite Technology](https://polite.technology/preview) & [Tesla's anti handbook](https://twitter.com/alex_avoigt/status/1462953513890336771).
-
-## Interesting values/principles
-
-- [Oxide Principles of Operation](https://oxide.computer/principles/)
-- [Write.as principles](https://write.as/principles)
-- [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
-- [Glitch Company values](https://handbook.glitch.me/#values)
-- [Figma's engineering values](https://www.figma.com/blog/figmas-engineering-values/)
-- [Bright Paper](https://beamapp.co/bright_paper.html)
-- [On Deck - Operating Principles](https://www.beondeck.com/principles)
-- [Reflect's Values](https://reflect.site/g/ggjzqzb390loy9dmlguxzru6xahw2/reflect-values-9df387cfc54b48faa01229ed11630ae6) - Speed. Security. Reliability. Less is more.
-- [Dgraph Core Values](https://discuss.dgraph.io/t/dgraph-core-values-v20-05-31/1402)
-- [LIMS Research Principles](https://lims.ac.uk/principles/) ([HN](https://news.ycombinator.com/item?id=30784037))
-
-## Team values
-
-- Commitment, Focus, Courage, Openness & Respect
-- [Experiment](https://www.youtube.com/watch?v=5WVXCy1Q88o)
-- Give space for team to focus
-- Prioritize (Ability to say no)
-- Courage to be wrong (`I don't understand`).
-- Courage to try (fail & learn)
-- Open to evaluation
-- Call things out
-- Respect each other
-- Respect the product & the customers
-- Respect the decisions of the team
 
 ## Links
 

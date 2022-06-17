@@ -2,55 +2,6 @@
 
 [Party Round](https://partyround.com/) 
 
-## Accelerators
-
-- [Techstars](https://www.techstars.com/)
-- [Entrepreneur First Berlin](https://www.joinef.com/)
-- [Plug & Play](https://www.plugandplaytechcenter.com/)
-- [500 startups](https://500.co/)
-- [Antler](https://www.antler.co/)
-- [Disney Accelerator](https://disneyaccelerator.com/)
-
-## Nice rewards
-
-- [Veronika Romashkina](https://github.com/sponsors/vrom911)
-- [TheLatestKate](https://www.patreon.com/thelatestkate)
-- [Max Howell](https://www.patreon.com/mxcl)
-- [TJ Holowaychuk](https://github.com/sponsors/tj)
-- [Rakhim D.](https://www.patreon.com/rakhim)
-- [Kitze](https://github.com/sponsors/kitze)
-- [Tatiana Mac](https://github.com/sponsors/tatianamac)
-- [Benedek Rozemberczki](https://github.com/sponsors/benedekrozemberczki)
-- [Tuist org](https://github.com/sponsors/tuist)
-- [Deno](https://github.com/sponsors/denoland)
-- [Alex Ellis](https://github.com/sponsors/alexellis/) - Get newsletter as reward.
-- [uberdosis](https://github.com/sponsors/ueberdosis)
-- [Dmitrii Kovanikov](https://github.com/sponsors/chshersh)
-
-## Thanks pages
-
-- [Fabio Spampinato](https://fabiospampinato.com/thanks)
-- [Sindre Sorhus](https://sindresorhus.com/thanks)
-
-## Angel Investors
-
-- [Auston Bunsen](https://www.bitsorbricks.com/angel-investing)
-
-## Pitches
-
-- [Dylan Field pitches seed-stage Figma to Daniel Gross (2020)](https://www.youtube.com/watch?v=C1UUVdN3kdQ)
-
-## Notes
-
-- [Preparing to raise capital? Do not start with the deck. Start with an FAQ. Write down the answers to ALL questions investors can possibly ask you.](https://twitter.com/alexiskold/status/1218987908545306624)
-- [Raising a round from strategic angels is only helpful if you actually know how to leverage them. I am seeing some founders really lean into this and turn their investors into a community.](https://twitter.com/austin_rief/status/1378921515916361731)
-- [When you raise capital, you're typically raising to get to key metrics to be able to raise more capital. Knowing that, tell me what KPIs you plan to hit with your raise.](https://twitter.com/lpolovets/status/1387229726071087104)
-- [A great investment deck takes, at least, 30 days of full-time work. Anything less than that, and, trust me you don't have a great deck.](https://twitter.com/AleResnik/status/1346190661356175360)
-- [Most common advice I share with very early-stage founders on fundraising: For the most part, assume you can’t educate investors. Go back to your list and qualify, qualify, qualify. Don’t talk to pagans. Your job is to preach to the converted.](https://twitter.com/lucasbagnocv/status/1431692210513326083)
-- [If you're good at building products, you have all the leverage. Don't let investors, exchanges, or people promising "partnerships" take advantage of you.](https://twitter.com/DylanMacalinao/status/1441587664029839364)
-- [I pitched hundreds of institutions and thousands of angels. One by one we started winning over early believers. Three years later, I had a hundred checks from a hundred angels (roughly $10m). And that’s how we capitalized the first three years of Peloton.](https://twitter.com/keylargofoley/status/1453495219522097157)
-- [Dilution really adds up. Avoid rounds completely or do them at <10% dilution if you can.](https://twitter.com/immad/status/1472594190559166470)
-- [How to win term sheets consistently: 1. Be nice and don't ghost people. 2. Run a fast process and make an offer quickly. 3. Establish a reputation for being helpful after you invest. 4. Offer a 3x higher valuation than every other VC.](https://twitter.com/lpolovets/status/1501589642960855046)
 
 ## Links
 

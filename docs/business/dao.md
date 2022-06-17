@@ -5,22 +5,6 @@ title: DAOs
 # [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 
 
-## Interesting
-
-- [Station](https://www.station.express/) - Connecting people and projects in Web3. ([Twitter](https://twitter.com/0xStation))
-- [Nouns DAO](https://nouns.wtf/) - Generative avatar art collective run by a group of crypto misfits. ([Code](https://github.com/nounsDAO/nouns-monorepo))
-
-## Notes
-
-- [Turns out one of the killer use cases of NFTs has nothing to do with art. Instead they allow the bootstrapping of a community of thousands of smart, hungry people working towards a common goal. all of them sharing ownership and equity.](https://twitter.com/dabit3/status/1459546438531264514)
-- [Web3 returns us to a p2p world. Corporations can't advertise effectively. People can. And that means people need three ingredients: 1. Incentives (reasons). 2. Memes (talking points). 3. Values (belief). Projects to bet on are the ones that optimize for all three.](https://twitter.com/divine_economy/status/1459638301967716360)
-- [You do not need past experience to start a DAO. The best communities discover web3 as a natural growth solution. There are no pre-requisites to sharing ownership with those who deserve it.](https://twitter.com/Cooopahtroopa/status/1459620316024557570)
-- [Creating a DAO showcases how web3 can support methods of giving a voice to those who have been voiceless and/or discriminated against in the past.](https://twitter.com/WRLobkowicz/status/1461401594122182662)
-- [Would love to see a platform launch DAOs that don’t bother using crypto: LLC, buy membership via Stripe/Plaid, legally enforceable contracts, voting via web app + a proxy. We have all the tools to do it without massive gas fees and other problems right now.](https://twitter.com/tylertringas/status/1463134973473570819)
-- [Tezos, a blockchain that is self-amending with staking & on-chain governance, is an example of a large DAO. Bakers and delegates are (perhaps unwittingly) participants in a decentralized autonomous organization, with the shared goal of maintaining the protocol](https://twitter.com/mattdesl/status/1465334632388378636)
-- [A mistake I see DAO's making is asking for too big of a contribution, too early. Most bounties are too overwhelming for a new member. Instead, give members small ways (micro bounties?) to contribute and earn, and ease them into bigger commitments over time.](https://twitter.com/DavidSpinks/status/1480576604157870086)
-- [If your goal is to solve really hard problems as quickly as possible, DAOs are not the best way to organize.](https://twitter.com/armaniferrante/status/1507376922954711044)
-
 ## Links
 
 - [What is a DAO in Crypto? (Decentralized Autonomous Organization)](https://www.youtube.com/watch?v=KHm0uUPqmVE)

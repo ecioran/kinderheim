@@ -1,54 +1,5 @@
 # Business
 
-Learning to build [startups](startups/startups.md).
-
-## Interesting companies
-
-- [Calico](https://www.calicolabs.com/)
-- [Formidable](https://formidable.com/careers/)
-- Apple
-- Google
-- [DeepMind](https://deepmind.com/careers/jobs)
-- OpenAI
-- [Looker](https://www.parity.io/jobs/)
-- [Tray](https://tray.io/careers)
-- SkyScanner
-- GitBook
-- [Gatsby](https://www.gatsbyjs.com/careers/)
-- Otta
-- Readdle
-- Monzo
-- Cloudflare
-- [Parity](https://www.parity.io/jobs/)
-- Framer X
-- Mozilla
-- Facebook
-- Deliveroo
-- Bloomberg
-- [Figma](https://www.figma.com/careers/)
-- Digital Ocean
-- TypeForm
-- [Apollo](https://www.apollographql.com/careers/) ([Senior eng](https://www.apollographql.com/careers/positions/#Senior-Backend-Software-Engineer:b8ec842e-e79a-455e-a665-b312892d946e))
-- [Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
-
-## Notes
-
-- [I don't care how successful you or your company becomes, the absolute worst founders are the ones that screw over their employees / teammates during any M&A. First rule is take care of everyone on your team first.](https://twitter.com/ajt/status/1379303139870961666)
-- [Organizations should outgrow their founders.](https://twitter.com/joshsimmons/status/1379326794373898242)
-- [Product-market fit heals and forgives almost everything. The highest order bit is almost the only thing that matters by a long shot, to a dramatic and unintuitive degree.](https://twitter.com/visakanv/status/1382128300189839360)
-- [Business is just an elaborate excuse to make friends with interesting people.](https://twitter.com/awilkinson/status/1390741017079422979)
-- [Having a flat company structure sounds great until you've lived it. Companies need structure and hierarchy to work.](https://twitter.com/iamharaldur/status/1395084530609004549)
-- [A small team of great engineers can make just a shocking amount of progress. This is one of the most unintuitive things for business people who tend to think more linearly in terms of team size vs. output.](https://twitter.com/jaltma/status/1395479778346426372)
-- [Most large companies are incompetent at doing or thinking about anything beyond their core competency.](https://twitter.com/austin_rief/status/1397526266442625032)
-- [What matters is not so much size [of an organization] but the distance between employees and their customers.](https://twitter.com/johnmaeda/status/1422510958195482630)
-- [In corporate jobs, the best employees make their manager’s lives easier which encourages giving them more scope and responsibility. You get there by being autonomous instead of needing regular guidance, bringing solutions not problems and taking ownership when you don’t have to.](https://twitter.com/Carnage4Life/status/1408423307494400004)
-- [The moment you initiate a business relationship with anyone outside of your company, you should be registering it, as the contracts should be between the corporate entity and the vendor rather than you (personally) with the vendor.](https://www.reddit.com/r/SaaS/comments/oz8m6m/registering_a_company/)
-- [As a principal engineer, sometimes my title intimidates people (at my job). I see it when people are sharing ideas or code. I’m thinking of ways to tackle this, but wanted to share that your title may carry weight. What are you doing to build inclusive and equitable environments?](https://twitter.com/bryanl/status/1441441208321069060)
-- [40 hour workweek was established over a century ago. Since then, we've invented 5G networks, automation, 3D printing, AR/VR, and a computer that can fit in your pocket. Nearly all of the tools have changed, yet somehow people still think the way we work needs to stay the same.](https://twitter.com/stephsmithio/status/1433939023278456833)
-- [Checking items off a list feels productive but it’s not effective. Effectiveness is staying focused on tasks that drive customer value.](https://twitter.com/techgirl1908/status/1462104303959695366)
-- [Within a year or two, we will see the end of cliff vesting or vesting of any kind. We are already seeing some large companies front-load RSUs. One big factor is competition with web3 projects where people can be compensated in instantly liquid tokens.](https://twitter.com/sriramk/status/1463977494667620352)
-- [I don't want a new cryptocurrency i want a new type of business legal structure that incentivizes you to actually do good in the world while making money.](https://twitter.com/mollyfmielke/status/1472231100487323652)
-- [Advice for making money: Sell to businesses. Not consumers.](https://twitter.com/JamesonCamp/status/1472990210422194186)
 
 ## Links
 

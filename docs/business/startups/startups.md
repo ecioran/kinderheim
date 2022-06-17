@@ -1,6 +1,7 @@
 # Startups
 
-[YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build.
+[YC Startup Directory](https://www.ycombinator.com/companies)
+
 
 ## Links
 
